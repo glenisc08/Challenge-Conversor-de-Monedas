@@ -47,4 +47,4 @@ La API de tasas de cambio utilizada en este proyecto es: [https://app.exchangera
 
 ## Autor
 
-[Tu Nombre]
+Glenis Corona Lemus
